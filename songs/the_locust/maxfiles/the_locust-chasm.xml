@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "the_locust">
+	<slot number = "1">
+		<pattr name = "mainbeat" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 0 7 0 0 8 0 0 9 0 0 10 0 0 11 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 1 7 0 1 8 0 1 9 0 1 10 0 1 11 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 2 7 0 2 8 0 2 9 0 2 10 0 2 11 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 3 7 0 3 8 0 3 9 0 3 10 0 3 11 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 4 7 0 4 8 0 4 9 0 4 10 0 4 11 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 5 7 0 5 8 0 5 9 0 5 10 0 5 11 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0 6 7 0 6 8 0 6 9 0 6 10 0 6 11 0 7 0 0 7 1 0 7 2 0 7 3 0 7 4 0 7 5 0 7 6 0 7 7 0 7 8 0 7 9 0 7 10 0 7 11 0 8 0 0 8 1 0 8 2 0 8 3 0 8 4 0 8 5 0 8 6 0 8 7 0 8 8 0 8 9 0 8 10 0 8 11 0 9 0 0 9 1 0 9 2 0 9 3 0 9 4 0 9 5 0 9 6 0 9 7 0 9 8 0 9 9 0 9 10 0 9 11 0 10 0 0 10 1 0 10 2 0 10 3 0 10 4 0 10 5 0 10 6 0 10 7 0 10 8 0 10 9 0 10 10 0 10 11 0 11 0 0 11 1 0 11 2 0 11 3 0 11 4 0 11 5 0 11 6 0 11 7 0 11 8 0 11 9 0 11 10 0 11 11 0 12 0 0 12 1 0 12 2 0 12 3 0 12 4 0 12 5 0 12 6 0 12 7 0 12 8 0 12 9 0 12 10 0 12 11 0 13 0 0 13 1 0 13 2 0 13 3 0 13 4 0 13 5 0 13 6 0 13 7 0 13 8 0 13 9 0 13 10 0 13 11 0 14 0 0 14 1 0 14 2 0 14 3 0 14 4 0 14 5 0 14 6 0 14 7 0 14 8 0 14 9 0 14 10 0 14 11 0 15 0 0 15 1 0 15 2 0 15 3 0 15 4 0 15 5 0 15 6 0 15 7 0 15 8 0 15 9 0 15 10 0 15 11 0" />
+		<pattr name = "nrgBass[1]" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 0 7 0 0 8 0 0 9 0 0 10 0 0 11 1 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 1 7 0 1 8 0 1 9 0 1 10 0 1 11 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 2 7 0 2 8 0 2 9 0 2 10 1 2 11 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 3 7 0 3 8 0 3 9 0 3 10 0 3 11 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 4 7 0 4 8 0 4 9 1 4 10 0 4 11 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 5 7 0 5 8 0 5 9 0 5 10 0 5 11 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0 6 7 0 6 8 1 6 9 0 6 10 0 6 11 0 7 0 0 7 1 0 7 2 0 7 3 0 7 4 0 7 5 0 7 6 0 7 7 0 7 8 0 7 9 0 7 10 0 7 11 0 8 0 0 8 1 0 8 2 0 8 3 0 8 4 0 8 5 0 8 6 0 8 7 0 8 8 0 8 9 0 8 10 0 8 11 1 9 0 0 9 1 0 9 2 0 9 3 0 9 4 0 9 5 0 9 6 0 9 7 0 9 8 0 9 9 0 9 10 0 9 11 0 10 0 0 10 1 0 10 2 0 10 3 0 10 4 0 10 5 0 10 6 0 10 7 0 10 8 0 10 9 0 10 10 1 10 11 0 11 0 0 11 1 0 11 2 0 11 3 0 11 4 0 11 5 0 11 6 0 11 7 0 11 8 0 11 9 0 11 10 0 11 11 0 12 0 0 12 1 0 12 2 0 12 3 0 12 4 0 12 5 0 12 6 0 12 7 0 12 8 0 12 9 1 12 10 0 12 11 0 13 0 0 13 1 0 13 2 0 13 3 0 13 4 0 13 5 0 13 6 0 13 7 0 13 8 0 13 9 0 13 10 0 13 11 0 14 0 0 14 1 0 14 2 0 14 3 0 14 4 0 14 5 0 14 6 0 14 7 0 14 8 1 14 9 0 14 10 0 14 11 0 15 0 0 15 1 0 15 2 0 15 3 0 15 4 0 15 5 0 15 6 0 15 7 0 15 8 0 15 9 0 15 10 0 15 11 0" />
+		<pattr name = "nrgBass[2]" value = "0 0 0 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 0 6 0 0 7 0 0 8 1 0 9 0 0 10 0 0 11 0 1 0 0 1 1 0 1 2 0 1 3 0 1 4 0 1 5 0 1 6 0 1 7 0 1 8 0 1 9 0 1 10 0 1 11 0 2 0 0 2 1 0 2 2 0 2 3 0 2 4 0 2 5 0 2 6 0 2 7 0 2 8 0 2 9 1 2 10 0 2 11 0 3 0 0 3 1 0 3 2 0 3 3 0 3 4 0 3 5 0 3 6 0 3 7 0 3 8 0 3 9 0 3 10 0 3 11 0 4 0 0 4 1 0 4 2 0 4 3 0 4 4 0 4 5 0 4 6 0 4 7 0 4 8 0 4 9 0 4 10 1 4 11 0 5 0 0 5 1 0 5 2 0 5 3 0 5 4 0 5 5 0 5 6 0 5 7 0 5 8 0 5 9 0 5 10 0 5 11 0 6 0 0 6 1 0 6 2 0 6 3 0 6 4 0 6 5 0 6 6 0 6 7 0 6 8 0 6 9 0 6 10 0 6 11 1 7 0 0 7 1 0 7 2 0 7 3 0 7 4 0 7 5 0 7 6 0 7 7 0 7 8 0 7 9 0 7 10 0 7 11 0 8 0 0 8 1 0 8 2 0 8 3 0 8 4 0 8 5 0 8 6 0 8 7 0 8 8 1 8 9 0 8 10 0 8 11 0 9 0 0 9 1 0 9 2 0 9 3 0 9 4 0 9 5 0 9 6 0 9 7 0 9 8 0 9 9 0 9 10 0 9 11 0 10 0 0 10 1 0 10 2 0 10 3 0 10 4 0 10 5 0 10 6 0 10 7 0 10 8 0 10 9 1 10 10 0 10 11 0 11 0 0 11 1 0 11 2 0 11 3 0 11 4 0 11 5 0 11 6 0 11 7 0 11 8 0 11 9 0 11 10 0 11 11 0 12 0 0 12 1 0 12 2 0 12 3 0 12 4 0 12 5 0 12 6 0 12 7 0 12 8 0 12 9 0 12 10 1 12 11 0 13 0 0 13 1 0 13 2 0 13 3 0 13 4 0 13 5 0 13 6 0 13 7 0 13 8 0 13 9 0 13 10 0 13 11 0 14 0 0 14 1 0 14 2 0 14 3 0 14 4 0 14 5 0 14 6 0 14 7 0 14 8 0 14 9 0 14 10 0 14 11 1 15 0 0 15 1 0 15 2 0 15 3 0 15 4 0 15 5 0 15 6 0 15 7 0 15 8 0 15 9 0 15 10 0 15 11 0" />
+		<patcher name = "songController">
+			<pattr name = "tempo" value = "120" />
+		</patcher>
+		<patcher name = "sb.drumBank~.mxb">
+			<patcher name = "sb.drumSample~.mxb[5]">
+				<pattr name = "pan" value = "64" />
+				<pattr name = "togglemute" value = "0" />
+				<pattr name = "volume" value = "127" />
+				<patcher name = "persister">
+					<pattr name = "textvalues" value = "116 101 120 116" />
+				</patcher>
+			</patcher>
+			<patcher name = "sb.drumSample~.mxb[4]">
+				<pattr name = "pan" value = "64" />
+				<pattr name = "togglemute" value = "1" />
+				<pattr name = "volume" value = "109" />
+				<patcher name = "persister">
+					<pattr name = "textvalues" value = "116 101 120 116 32 100 105 115 116 95 54 48 54 95 115 110 97 114 101 46 119 97 118" />
+				</patcher>
+			</patcher>
+			<patcher name = "sb.drumSample~.mxb[3]">
+				<pattr name = "pan" value = "64" />
+				<pattr name = "togglemute" value = "0" />
+				<pattr name = "volume" value = "61" />
+				<patcher name = "persister">
+					<pattr name = "textvalues" value = "116 101 120 116 32 100 105 115 116 95 54 48 54 95 99 104 104 46 119 97 118" />
+				</patcher>
+			</patcher>
+			<patcher name = "sb.drumSample~.mxb[2]">
+				<pattr name = "pan" value = "64" />
+				<pattr name = "togglemute" value = "0" />
+				<pattr name = "volume" value = "18" />
+				<patcher name = "persister">
+					<pattr name = "textvalues" value = "116 101 120 116 32 119 111 98 98 108 121 95 54 48 54 95 111 104 104 46 119 97 118" />
+				</patcher>
+			</patcher>
+			<patcher name = "sb.drumSample~.mxb[1]">
+				<pattr name = "pan" value = "64" />
+				<pattr name = "togglemute" value = "0" />
+				<pattr name = "volume" value = "105" />
+				<patcher name = "persister">
+					<pattr name = "textvalues" value = "116 101 120 116 32 101 108 101 99 116 114 111 95 99 108 97 112 46 119 97 118" />
+				</patcher>
+			</patcher>
+			<patcher name = "sb.drumSample~.mxb">
+				<pattr name = "pan" value = "64" />
+				<pattr name = "togglemute" value = "0" />
+				<pattr name = "volume" value = "127" />
+				<patcher name = "persister">
+					<pattr name = "textvalues" value = "116 101 120 116 32 109 117 116 114 111 110 95 107 105 99 107 46 119 97 118" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "sb.monoSynth1~.mxb">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "cutoff" value = "119" />
+			<pattr name = "cutoffenv" value = "74" />
+			<pattr name = "filtertype" value = "1" />
+			<pattr name = "gain" value = "63" />
+			<pattr name = "pulsevol" value = "82" />
+			<pattr name = "pulsewidth" value = "66" />
+			<pattr name = "release" value = "0" />
+			<pattr name = "resonance" value = "0" />
+			<pattr name = "sawtoothvol" value = "70" />
+			<pattr name = "trianglevol" value = "127" />
+		</patcher>
+		<patcher name = "sb.polySynth1~.mxb">
+			<pattr name = "attack" value = "11" />
+			<pattr name = "cutoff" value = "69" />
+			<pattr name = "cutoffenv" value = "0" />
+			<pattr name = "pulsevol" value = "0" />
+			<pattr name = "pulsewidth" value = "0" />
+			<pattr name = "release" value = "9" />
+			<pattr name = "resonance" value = "67" />
+			<pattr name = "sawtoothvol" value = "108" />
+			<pattr name = "trianglevol" value = "0" />
+		</patcher>
+		<patcher name = "mixer">
+			<patcher name = "sb.mixer.18channel.mxt">
+				<patcher name = "channelS3">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "127" />
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan[1]">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0.2" />
+					</patcher>
+				</patcher>
+				<patcher name = "channelS4">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "81" />
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan[1]">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0.5" />
+					</patcher>
+				</patcher>
+				<patcher name = "channelM1">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "64" />
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelM2">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "67" />
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelM3">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "28" />
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelM4">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "64" />
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelS2">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "25" />
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan[1]">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelS1">
+					<pattr name = "dest" value = "1" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "127" />
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan[1]">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelS4[1]">
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "mastervol" value = "0.5" />
+				</patcher>
+				<patcher name = "channelS5">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "127" />
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan[1]">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0.77" />
+					</patcher>
+				</patcher>
+				<patcher name = "channelS6">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "64" />
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan[1]">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelM5">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "64" />
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelM6">
+					<pattr name = "dest" value = "0" />
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "level" value = "64" />
+					<patcher name = "send1.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send1.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "send2.vol">
+						<pattr name = "vol" value = "0." />
+					</patcher>
+					<patcher name = "send2.pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+					<patcher name = "pan">
+						<pattr name = "pan" value = "0." />
+					</patcher>
+				</patcher>
+				<patcher name = "channelS4[2]">
+					<pattr name = "enabled" value = "1" />
+					<pattr name = "mastervol" value = "0.5" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "sb.polySampler~.mxb[2]">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "loopend" value = "0." />
+			<pattr name = "loopstart" value = "0." />
+			<pattr name = "looptoggle" value = "0" />
+			<pattr name = "release" value = "61" />
+			<pattr name = "tune" value = "-4." />
+			<patcher name = "persister">
+				<pattr name = "textvalues" value = "116 101 120 116 32 112 105 97 110 111 95 99 115 51 46 119 97 118" />
+			</patcher>
+		</patcher>
+		<patcher name = "sb.polySampler~.mxb[1]">
+			<pattr name = "attack" value = "0" />
+			<pattr name = "loopend" value = "0." />
+			<pattr name = "loopstart" value = "0." />
+			<pattr name = "looptoggle" value = "0" />
+			<pattr name = "release" value = "60" />
+			<pattr name = "tune" value = "-4." />
+			<patcher name = "persister">
+				<pattr name = "textvalues" value = "116 101 120 116 32 112 105 97 110 111 95 99 115 54 46 119 97 118" />
+			</patcher>
+		</patcher>
+		<patcher name = "sb.freeverb~">
+			<pattr name = "damping" value = "0.36" />
+			<pattr name = "dry" value = "0" />
+			<pattr name = "roomsize" value = "0.72" />
+			<pattr name = "wet" value = "127" />
+			<pattr name = "width" value = "0.8" />
+		</patcher>
+		<patcher name = "solo">
+			<patcher name = "sb.polySampler~.mxb[2]">
+				<pattr name = "attack" value = "0" />
+				<pattr name = "loopend" value = "0." />
+				<pattr name = "loopstart" value = "0." />
+				<pattr name = "looptoggle" value = "0" />
+				<pattr name = "release" value = "64" />
+				<pattr name = "tune" value = "-4." />
+				<patcher name = "persister">
+					<pattr name = "textvalues" value = "116 101 120 116 32 112 105 97 110 111 95 99 115 53 46 119 97 118" />
+				</patcher>
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+
