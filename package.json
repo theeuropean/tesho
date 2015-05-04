@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "piu": "^1.0.0",
     "chasm": "latest"
   }
 }
